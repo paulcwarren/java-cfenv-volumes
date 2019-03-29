@@ -109,4 +109,4 @@ Add the following environment variables to you run configuration:
 }
 ```
 
-Then run `contextLoads` test in `tests`
+Then run [this test](https://github.com/paulcwarren/java-cfenv-volumes/blob/5d8fbb928f19edd0addaf748ffc94e5851ff7d98/src/test/java/com/example/javacfenvvolumes/JavaCfenvVolumesApplicationTests.java#L22)
